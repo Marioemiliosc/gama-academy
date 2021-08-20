@@ -1,2 +1,2 @@
 # gama-academy
- Aprendendo muito com essa galera
+ Aprendendo muito com essa galera 🖖

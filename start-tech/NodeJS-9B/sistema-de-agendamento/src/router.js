@@ -1,7 +1,5 @@
 // Importacao
-// import { Router } from 'express';
-
-const { Router } = require('express');
+import { Router } from 'express';
 
 // Instanciando o Router
 const routes = new Router();
@@ -12,4 +10,4 @@ routes.get('/', (req, res) => {
 });
 
 // Exportando as rotas para consumir no arquivo app.js
-module.exports = routes;
+export default routes;
